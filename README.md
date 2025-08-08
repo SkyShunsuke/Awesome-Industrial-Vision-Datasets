@@ -16,6 +16,10 @@ All datasets are neatly summarized in a **clear, emoji-friendly table** 📊 for
   📌 <strong>Note:</strong> This is a work-in-progress list with placeholder data. Contributions are welcome to add real datasets!
 </div>
 
+## 📰 News
+
+- **2025/08/08** 🎉 Initial release of **Awesome-Industrial-Vision-Datasets**!  
+
 ## Notion Mirror Page 
 
 
