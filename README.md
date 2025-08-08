@@ -85,7 +85,7 @@ The following table lists datasets with essential details. For quick navigation:
 - **Proposed Year**: Year of initial release or publication.
 - **Citation (BibTeX)**: Ready-to-use BibTeX reference for citation.
 
-## Utilities
+<!-- ## Utilities
 This section can include tools or scripts for dataset handling (e.g., download scripts, preprocessing code). Currently placeholders:
 - `download_datasets.py`: A Python script to batch-download datasets from links.
 - `visualize_anomalies.ipynb`: Jupyter notebook for quick visualization of samples.
@@ -94,7 +94,7 @@ This section can include tools or scripts for dataset handling (e.g., download s
 Here are links to related surveys and reviews for deeper insights (placeholders):
 - [A Survey on Industrial Anomaly Detection Datasets](https://example.com/survey1) - Comprehensive review from IEEE (2023).
 - [Benchmarking Visual Anomaly Detection](https://example.com/benchmark) - Paper comparing 20+ datasets (2024).
-- [Awesome Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources) - Broader repo on anomaly detection resources.
+- [Awesome Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources) - Broader repo on anomaly detection resources. -->
 
 ## Contributing
 Feel free to submit pull requests to add real datasets, update placeholders, or improve the table. Follow the template above for new entries.
